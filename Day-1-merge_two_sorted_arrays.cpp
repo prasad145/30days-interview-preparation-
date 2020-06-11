@@ -17,7 +17,7 @@ using namespace std;
 int main()
 {
 	//merge two sorted arrays without extra space
-	//easy nut tricky
+	//easy but tricky
 	boost;
 	int t;
 	cin>>t;
