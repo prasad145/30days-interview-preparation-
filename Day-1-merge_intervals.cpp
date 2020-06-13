@@ -35,7 +35,7 @@ solve(interval arr[],int n)
 		}
 		else
 		{
-			arr[j+1]=arr[i]; //write method (even its wrong in GeeksForGeeks XD)
+			arr[j+1]=arr[i]; //right method (even its wrong in GeeksForGeeks XD)
 			j++;
 		}	
 	}
