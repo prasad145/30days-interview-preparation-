@@ -11,4 +11,11 @@ Day1:   (Arrays)
   4. Merge   two   sorted   Arrays   without   extra   space   
   5. Kadane’s   Algorithm   
   6. Merge   Overlapping   Subintervals 
+  
+Day2:  (Arrays)
+  1. Set   Matrix   Zeros   
+  2. Pascal   Triangle   
+  3. Inversion   of   Array   (Using STL, Merge   Sort)   
+  4. Stock   Buy   and   Sell   
+  5. Rotate   Matrix   
 
