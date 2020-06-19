@@ -17,5 +17,13 @@ Day2:  (Arrays)
   2. Pascal   Triangle   
   3. Inversion   of   Array   (Using STL, Merge   Sort)   
   4. Stock   Buy   and   Sell   
-  5. Rotate   Matrix   
+  5. Rotate   Matrix  
+
+Day3: (Math)
+  1. Excel   Column   Number   
+  2. Find   n^x   in   log   N   
+  3. Count   trailing   zeros   in   factorial   of   a   number   
+  4. Find   GCD   in   Log   N   
+  5. Grid   Unique   Paths   
+  6. Go   through   Puzzles   from   GFG   (Search   on   own)   
 
