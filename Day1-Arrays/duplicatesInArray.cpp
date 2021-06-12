@@ -1,5 +1,6 @@
 #include<iostream>
 #include<algorithm>
+#include<vector>
 using namespace std;
 int main()
 {
@@ -10,25 +11,22 @@ int main()
 		int n;
 		cin >> n;
 		int a[n];
-		for(int i = 0; i < n; i++)
+		for(int  i = 0; i < n; i++)
 		{
 			cin >> a[i];
 		}		
-
-		int maxi = a[0], sum = 0;
 		for(int i = 0; i < n; i++)
 		{
-			sum  += a[i];
-			if(sum > maxi)
+			if(a[abs(a[i])] >= 0)
 			{
-				maxi = sum;
+				a[abs(a[i])] = -a[abs(a[i])];
 			}
-			if(sum < 0)
+			else
 			{
-				sum = 0;
+				cout << abs(a[i]) << " ";
 			}
 		}
-		cout << maxi << "\n";
+		cout << '\n';
 	}
 	return 0;
 }
