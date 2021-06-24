@@ -20,3 +20,10 @@
   5. Stock Buy and Sell 
   6. Rotate Matrix 
 
+### Day3: (Arrays/maths)
+  1. Search in a 2D matrix 
+  2. Pow(X,n)  
+  3. Majority Element
+  4. Grid Unique Paths 
+  5. Reverse Pairs 
+
